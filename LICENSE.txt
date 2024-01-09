@@ -1,0 +1,18 @@
+
+Non-Commercial Use GPLv3 License
+For non-commercial use all the source codes and algorithms are licensed un­der Gnu-Pub­lic-License Version 3 (GPLv3). Which more or less means: Free to use and free to redistribute for non-commercial purpose. Free to recycle the code, as far the new code is granted with a GPLv3 license (or higher), again.
+
+Commercial Use Licenses
+Requests for commercial use licenses are welcome. One exclusive or multiple non-exclusive licenses will be sold as wholesale packages for further reselling. They will be sold on the basis, that the non-commercial GPLv3 license granted above is remaining. 
+
+Commercial vs. Non-Commercial Usage
+Every application of the source code/ the algorithms, receiving a direct or indirect monetary compensation for, is commercial. A monetary payment is received indirectly, when bundling this license with other licenses to a larger package or flatrate. The classification of commercial and non-commercial does not depend on explicit code/ binary usage, software-as-a-service usage or electronic silicon circuiting. All commercial software-as-a-service, cloud computing and electronic circuiting usage , for which a monetary compensation is received, requires a commercial license. 
+
+To avoid highly fragmented licensing piecework the providers of a larger commercial statistical solution of any kind (software, software-as-a-service, electronic circuit), in which the author’s fully generalized normal distribution only plays a marginal role, to be specific less than 1% of the typical use, are provisionally granted a fee-less commercial license. Provisionally means, till the license use by the larger commercial statistical solution is called for detailed investigation. Up to the point of time of such  license investigation call, usually no license fees are billed (backward in time from the call). License fees are only billed forward in time from the investigation call, except the usage before the investigation call was obviously over the 1% hurdle rate. The provisionally fee-less users/ appliers can be obligated to protocol the type of usage by the license investigation call.
+
+The split into commercial and non-commercial usage is a non-discriminating differentiation regarding the GPLv3 license conditions. Every person and group has the free choice to use the code and the algorithms either non-commercially or  commercially. For legal evaluation especially, the original creator of the software/ the algorithms performs the split into non-commercial and commercial usage before any user/ applier has received any license rights in the software/ the algorithms at all. 
+
+
+Thesis Paper
+The thesis paper itself is licensed under the typical academic terms. It can be used for free, as far the source of the information is cited properly. 
+
