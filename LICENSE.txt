@@ -1,18 +1,36 @@
 
 Non-Commercial Use GPLv3 License
-For non-commercial use all the source codes and algorithms are licensed un­der Gnu-Pub­lic-License Version 3 (GPLv3). Which more or less means: Free to use and free to redistribute for non-commercial purpose. Free to recycle the code, as far the new code is granted with a GPLv3 license (or higher), again.
+For non-commercial use all the source codes and algorithms are licensed under Gnu-Public-License Version 3 (GPLv3). Which more or less means: Free to use and free to redistribute for non-commercial purpose. Free to recycle the code, as far the new code is granted with a GPLv3 license (or higher), again.
 
-Commercial Use Licenses
-Requests for commercial use licenses are welcome. One exclusive or multiple non-exclusive licenses will be sold as wholesale packages for further reselling. They will be sold on the basis, that the non-commercial GPLv3 license granted above is remaining. 
+Non-Commercial Use GPLv3 License Guarantee
+The author promises, that the non-commercial GPLv3 license granted above will remain, as long the code/ the algorithms are protected by legal authoring and copy rights.
 
 Commercial vs. Non-Commercial Usage
-Every application of the source code/ the algorithms, receiving a direct or indirect monetary compensation for, is commercial. A monetary payment is received indirectly, when bundling this license with other licenses to a larger package or flatrate. The classification of commercial and non-commercial does not depend on explicit code/ binary usage, software-as-a-service usage or electronic silicon circuiting. All commercial software-as-a-service, cloud computing and electronic circuiting usage , for which a monetary compensation is received, requires a commercial license. 
+Every re-offering of the source code/ the algorithms as a computing solution, receiving a direct or indirect monetary compensation for, is commercial. The classification of commercial and non-commercial does NOT depend on re-offering as explicit code/ binary, software-as-a-service, cloud computing or electronic silicon circuiting. A monetary payment is received indirectly, when bundling this license with other licenses to a larger package or flatrate. All commercial re-offering, for which a monetary compensation is received, requires a commercial license. 
 
-To avoid highly fragmented licensing piecework the providers of a larger commercial statistical solution of any kind (software, software-as-a-service, electronic circuit), in which the author’s fully generalized normal distribution only plays a marginal role, to be specific less than 1% of the typical use, are provisionally granted a fee-less commercial license. Provisionally means, till the license use by the larger commercial statistical solution is called for detailed investigation. Up to the point of time of such  license investigation call, usually no license fees are billed (backward in time from the call). License fees are only billed forward in time from the investigation call, except the usage before the investigation call was obviously over the 1% hurdle rate. The provisionally fee-less users/ appliers can be obligated to protocol the type of usage by the license investigation call.
+Non-Commercial Usage Examples:
+    • Private, scientific and educational use.
+    • A data scientist performs data science consulting using the code/ the algorithms (without re-offering the computing solution).
+    • An enterprise or authority analyses its own data using the code/ the algorithms (without re-offering the computing solution).
+         
+Non-Commercial Usage Examples:
+    • The code/ the algorithms are integrated into a commercial software.
+    • A SaaS/ cloud computing provider re-offers the code/ the algorithms as an online computing solution separately or in a bundle for money.
+    • A legally independent subsidiary re-offers the code/ the algorithms as a computing solution separately or in a bundle to its parent company and charges money its services. 
+      
+The split into commercial and non-commercial usage is a non-discriminating differentiation regarding the GPLv3 license conditions. Every person and group has the free choice to use the code and the algorithms either non-commercially or commercially. For legal evaluation especially, the original creator of the software/ the algorithms performs the split into non-commercial and commercial usage right from the beginning before any user/ applier has received any license rights in the source code/ the algorithms at all. 
 
-The split into commercial and non-commercial usage is a non-discriminating differentiation regarding the GPLv3 license conditions. Every person and group has the free choice to use the code and the algorithms either non-commercially or  commercially. For legal evaluation especially, the original creator of the software/ the algorithms performs the split into non-commercial and commercial usage before any user/ applier has received any license rights in the software/ the algorithms at all. 
+Commercial Usage License fees
+Commercial license fees are:
+    • Re-offering sales from 0 to 1’000 EUR: 0.5% of sales.
+    • Re-offering sales from 1’000 to 10’000 EUR: 0.4% of sales.
+    • Re-offering sales from 10’000 to 100’000 EUR: 0.3% of sales.
+    • Re-offering sales over 100’000 EUR: 0.25% of sales.
+    • Prices for wholesale licenses with permission for reselling are available on request. Wholesale licenses will be sold on the basis, that the non-commercial GPLv3 license granted above is remaining. 
+
+Provisional Fee-Less Commercial SOFTWARE License
+In order to avoid highly fragmented licensing piecework the providers of a larger commercial SOFTWARE, in which the author’s fully generalized normal distribution only plays a marginal role, to be specific less than 5% of all (function) calls to low level numerical procedures in the software, are provisionally granted a fee-less commercial license. Provisional fee-less means, till the license use is called for detailed investigation (license investigation call). Up to this point of time usually no license fees are billed (backward from the date of the call). Except for the license investigation results, that the proportion of (function) calls to low level numerical procedures in the software is over 10%. A license investigation call will ask the user of a provisional fee-less license to pass the source code of the software for investigation. The user of the provisional fee-less license can be obligated to gather all low level numerical procedures in one, two or three classes. The commonly granted provisional fee-less license can be revoked. Usually the reasons why to so will be named. However, that is not obligatory. Especially, if the users of the provisional fee-less license behaves uncooperative. Once a user/ applier of a fully generalized distribution has once shown an alternative algorithm for finding the corresponding theoretical distribution, he cannot be license called again, until there are signs of using the code/ the algorithms, again. 
 
 
 Thesis Paper
 The thesis paper itself is licensed under the typical academic terms. It can be used for free, as far the source of the information is cited properly. 
-
